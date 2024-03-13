@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kesav Kumar R
-- 👀 I’m interested in Building Beautiful Websites.
-- 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on intermediate Python and Web Development Projects.
+- 👀 I’m interested in Building Beautiful scalable Websites.
+- 🌱 I’m currently working as Java Back End Developer.
+- 💞️ I’m looking to collaborate on intermediate Java and javascript projects.
 - 📫 How to reach me Mail me 👉 kesav_kumar@outlook.com
 
